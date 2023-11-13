@@ -13,7 +13,7 @@ from rake_nltk import Rake
 import spacy
 import spacy_streamlit
 from collections import Counter
-import en_core_web_sm
+#import en_core_web_sm
 from nltk.tokenize import sent_tokenize
 
 
@@ -23,9 +23,9 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Import the custom modules 
-import spam_filter as sf
-import text_analysis as nlp
-import text_summarize as ts
+#import spam_filter as sf
+#import text_analysis as nlp
+#import text_summarize as ts
 
 # Describing the Web Application 
 
