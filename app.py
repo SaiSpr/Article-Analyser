@@ -23,9 +23,9 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Import the custom modules 
-#import spam_filter as sf
-#import text_analysis as nlp
-#import text_summarize as ts
+import spam_filter as sf
+import text_analysis as nlp
+import text_summarize as ts
 
 # Describing the Web Application 
 
